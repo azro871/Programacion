@@ -2,6 +2,7 @@ public class Ejercicio4 {
     public static void main(String[] args) {
 
         System.out.println("English\tEspañol");
+        System.out.println("========\t======");
         System.out.println("Water\tAgua");
         System.out.println("Car\tCoche");
         System.out.println("Beach\tPlaya");
