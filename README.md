@@ -9,3 +9,4 @@ Repositorio del modulo de programación de DAW
 |[SalidaFormateada02.java](/tema1/SalidaFormateada02.java) | Ejarcicio1    |
 |[Ejercicio2.java](tema1/Ejercicio2.java) |                |               |
 |[Ejercicio3.java](tema1/Ejercicio3.java) |                |               |
+|[Ejercicio4.java](tema1/Ejercicio4.java) |                |               |
