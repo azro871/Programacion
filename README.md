@@ -11,3 +11,13 @@ Repositorio del modulo de programación de DAW
 |[Ejercicio3.java](tema1/Ejercicio3.java) |                |               |
 |[Ejercicio4.java](tema1/Ejercicio4.java) |                |               |
 |[Ejercicio5.java](tema1/Ejercicio5.java) |                |               |
+
+# Programación elemental
+Repositorio del modulo de programación de DAW
+
+## TEMA 2 - 
+
+| Ejercicio 1 | Descripción | 
+|-------------|-------------|
+|[CalculaMinutos.java](/tema2/CalculaMinutos.java)|           |             |
+   
