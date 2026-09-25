@@ -10,3 +10,4 @@ Repositorio del modulo de programación de DAW
 |[Ejercicio2.java](tema1/Ejercicio2.java) |                |               |
 |[Ejercicio3.java](tema1/Ejercicio3.java) |                |               |
 |[Ejercicio4.java](tema1/Ejercicio4.java) |                |               |
+|[Ejercicio5.java](tema1/Ejercicio5.java) |                |               |
