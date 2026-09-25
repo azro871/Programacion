@@ -19,5 +19,5 @@ Repositorio del modulo de programación de DAW
 
 | Ejercicio 1 | Descripción | 
 |-------------|-------------|
-|[CalculaMinutos.java](/tema2/CalculaMinutos.java)|           |             |
+|[CalculaMinutos.java](tema2/CalculaMinutos.java)|           |             |
    
