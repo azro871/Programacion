@@ -1,6 +1,6 @@
 public class Horario {
     public static void main(String[] args) {
-        System.out.println("  Horas&Días    Lunes     Martes    Miercoles   Jueves   Viernes  ");
+        System.out.println("  Horas/Días    Lunes     Martes    Miercoles   Jueves   Viernes  ");
         System.out.println("------------------------------------------------------------------");
         System.out.println("  1ªHora        LMDAW     BDDAW     SIDAW       PRDAW    EDDAW    ");
         System.out.println("------------------------------------------------------------------");
