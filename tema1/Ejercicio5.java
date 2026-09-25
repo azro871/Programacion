@@ -1,4 +1,4 @@
-public class Horario {
+public class Ejercicio5 {
     public static void main(String[] args) {
         System.out.println("  Horas/Días    Lunes     Martes    Miercoles   Jueves   Viernes  ");
         System.out.println("------------------------------------------------------------------");
