@@ -15,6 +15,7 @@ public class Ejercicio203 {
         } else {
             System.out.println("Buenas noches");
         }
+        sc.close()
     }
 }
 
