@@ -19,5 +19,9 @@ Repositorio del modulo de programación de DAW
 
 | Ejercicio 1 | Descripción | 
 |-------------|-------------|
-|[CalculaMinutos.java](/tema 2/CalculaMinutos.java)|           |             |
-|[Temperatura.java](/tema 2/Temperatura.java)|                   |        |  
+|[CalculaMinutos.java](/tema2/CalculaMinutos.java)|           |             |
+|[Temperatura.java](/tema2/Temperatura.java)|                   |        |  
+|[Ejercicio1.java](tema2/Ejercicio1.java)|                     |             |
+|[Ejercicio2.java](tema2/Ejercicio2.java)|                     |             |
+|[Ejercicio3.java](tema2/Ejercicio3.java)|                     |             |
+|[Ejercicio4.java](tema2/Ejercicio4.java)|                     |             |
