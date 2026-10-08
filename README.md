@@ -26,3 +26,19 @@ Repositorio del modulo de programación de DAW
 |[Ejercicio3.java](tema2/Ejercicio3.java)|                     |             |
 |[Ejercicio4.java](tema2/Ejercicio4.java)|                     |             |
 |[FtoC.java](tema2/FtoC.java)|                                 |             |
+
+# Programación
+Repositorio del modulo de programación de DAW
+
+## TEMA 3 -
+| Ejercicios | Descripcion |
+| -----------|-------------|
+|[DiaSemana.java](tema3/DiaSemana.java)|           |             |
+|[Ejercicio203.java](tema3/Ejercicio203.java)|       |              |
+|[Ejercicio303.java](tema3/Ejercicio.java)|         |               |
+
+
+
+
+
+
