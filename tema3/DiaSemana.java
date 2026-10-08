@@ -8,18 +8,18 @@ public class DiaSemana {
 System.out.println("Introduce un día:");
 String dia = teclado.next();
 
-if (dia.equals("lunes")) {
-    System.out.println("Programación");
-} else if (dia.equals("martes")) {
-    System.out.println("Sistemas Informáticos");
-} else if (dia.equals("miércoles")) {
+if (("lunes")) {
+    System.out.println("Toca a primera hora Lenguaje Marcas");
+} else if (("martes")) {
     System.out.println("Base de Datos");
-} else if (dia.equals("jueves")) {
-    System.out.println("Lenguajes de Marcas");
-} else if (dia.equals("viernes")) {
-    System.out.println("Entornos de Desarrollo");
+} else if (("miércoles")) {
+    System.out.println("Toca a primera hora Sistemas informaticas");
+} else if (("jueves")) {
+    System.out.println("Toca a primera hora Programacion");
+} else if (("viernes")) {
+    System.out.println("Toca a primera hora Entornos de desarrollo");
 } else {
-    System.out.println("Día no válido");
+    System.out.println("Toca a primera hora Día no válido");
 }
     }
 }
