@@ -33,11 +33,13 @@ Repositorio del modulo de programación de DAW
 ## TEMA 3 -
 | Ejercicios | Descripcion |
 | -----------|-------------|
-|[DiaSemana.java](tema3/DiaSemana.java)|           |             |
-|[Ejercicio203.java](tema3/Ejercicio203.java)|       |              |
+|[DiaSemana.java](tema3/DiaSemana.java)|               |               |
+|[Ejercicio203.java](tema3/Ejercicio203.java)|         |               |
 |[Ejercicio303.java](tema3/Ejercicio303.java)|         |               |
 |[Ejercicio403.java](tema3/Ejercicio403.java)|         |               |
 |[Ejercicio503.java](tema3/Ejercicio503.java)|         |               |
-
-
+|[Mayordeedad.java](tema3/Mayordeedad.java)  |         |               |
+|[Menordeedad.java](tema3/Menordeedad.java)  |         |               |
+|[Menor.java](tema3/Menor.java)              |         |               |
+|Mayor.java](tema3/Mayor.java)               |         |               |
 
