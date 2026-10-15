@@ -52,4 +52,4 @@ Repositorio del modulo de programación de DAW
 |[Carta.java](tema4/Carta.java)      |             |
 |[Linea.java](tema4/Linea.java)     |             |
 |[Linea2.java](tema4/Linea.java)     |             |
-
+|[Palabra.java](tema4/Palabra.java)|             |
